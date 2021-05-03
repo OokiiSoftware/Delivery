@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26895637679",
+    "firebase_url": "https://delivery-oki-default-rtdb.firebaseio.com",
+    "project_id": "delivery-oki",
+    "storage_bucket": "delivery-oki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26895637679:android:4032965098a1506952c85a",
+        "android_client_info": {
+          "package_name": "com.ookiisoftware.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26895637679-sdcq90fk83uqe84i9h90skjjr4j7pp9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7-R1tOHeHljxi9jfDX7aCJNO44fQaC5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26895637679-sdcq90fk83uqe84i9h90skjjr4j7pp9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+name: delivery
+description: A new Flutter project.
+
+version: 1.0.7+7
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  dynamic_theme: ^1.0.1
+  firebase_auth: ^0.18.3
+  firebase_database: ^4.3.0
+  firebase_storage: ^5.0.1
+  firebase_messaging: ^7.0.3
+  flutter_local_notifications: ^3.0.1+5
+  flutter_typeahead: ^2.0.0
+  google_sign_in: ^4.5.6
+  image_crop: ^0.3.2
+  image_picker: ^0.6.7+3
+  package_info: ^0.4.3+2
+  shared_preferences: ^0.5.12+4
+  url_launcher: ^5.7.10
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.7.5
+  flutter_launcher_name: ^0.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  adaptive_icon_background: '#3e3e3e'
+  adaptive_icon_foreground: "assets/icons/ic_launcher_adaptive.png"
+  image_path_android: "assets/icons/ic_launcher.png"
+  image_path_ios: "assets/icons/ic_launcher_ios.png"
+  android: true
+  ios: true
+
+flutter_launcher_name:
+  name: 'Pizza do KAEL'
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/

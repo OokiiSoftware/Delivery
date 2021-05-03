@@ -1,0 +1,16 @@
+export 'add_combo_page.dart';
+export 'add_produto_page.dart';
+export 'combo_page.dart';
+export 'combos_page.dart';
+export 'crop_page.dart';
+export 'estabelecimento_page.dart';
+export 'funcionarios_page.dart';
+export 'gerencia_page.dart';
+export 'info_page.dart';
+export 'login_page.dart';
+export 'main_page.dart';
+export 'pedido_page.dart';
+export 'pedidos_page.dart';
+export 'perfil_page.dart';
+export 'produto_page.dart';
+export 'produtos_page.dart';
